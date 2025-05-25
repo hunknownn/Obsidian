@@ -1,3 +1,2 @@
-#k8s 
-뭔가 수정사항? 
-22
+#k8s #StatefulSet
+#Volume #Headless-Service #Pod 

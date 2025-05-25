@@ -1,0 +1,1 @@
+#k8s #ReplicaSet #Pod #Deployment
